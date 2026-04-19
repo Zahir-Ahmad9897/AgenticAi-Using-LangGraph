@@ -3,3 +3,5 @@ langgraph
 python-dotenv
 langchain-huggingface
 huggingface-hub
+langchain-groq
+groq
